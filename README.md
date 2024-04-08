@@ -2,7 +2,7 @@
 
 [![Sparkle Butterfly Preview](public/assets/sparkle-butterfly-screenshot.png)](https://sparkle-butterfly.vercel.app/)
 
-Witness a Breathtaking Bloom with **Sparkle Butterfly**, an interactive landing page that ignites your creative spark. Built with the power of Next.js, HTML, CSS, and JavaScript, Sparkle Butterfly lets you explore a stunning transformation. Witness vibrant blue and orange butterflies come alive, flitting and shimmering against a starry nightscape. Dynamic styling is provided by Tailwind CSS, while GSAP orchestrates captivating animations. But the true magic comes from React Three Fiber, rendering stunning 3D butterfly models, creating a mesmerizing experience. Unleash your inner artist and explore the limitless potential within – with Sparkle Butterfly, your imagination takes flight!
+Witness a Breathtaking Bloom with **Sparkle Butterfly**, an interactive landing page that ignites your creative spark. Built with the power of Next.js, HTML, CSS, and JavaScript, Sparkle Butterfly lets you explore a stunning transformation. Witness vibrant butterflies come alive, flitting and shimmering against a starry nightscape. Dynamic styling is provided by Tailwind CSS, while GSAP orchestrates captivating animations. But the true magic comes from React Three Fiber, rendering stunning 3D butterfly models, creating a mesmerizing experience. Unleash your inner artist and explore the limitless potential within – with Sparkle Butterfly, your imagination takes flight!
 
 ## Key Features:
 
