@@ -30,7 +30,7 @@ const AllSections = () => {
 
       <Section>
         <h1 className="text-white sm:text-[60px] text-[40px]">
-          Feeling Cocoon-ed?<br />Let's Break Free and Soar!
+          Feeling Cocoon-ed?<br />Let&apos;s Break Free and Soar!
         </h1>
       </Section>
 
